@@ -104,12 +104,12 @@ color: rgb(104, 219, 235);
 }
 
 #tcombi th {
-    background-color: rgb(17, 94, 40);
+    background-color: rgb(6, 185, 60);
     color: rgb(219, 243, 7);
 }
 #tcombi td {
-    background-color:rgb(219, 243, 7);
-    color: rgb(17, 94, 40);
+    background-color:rgb(227, 245, 65);
+    color: rgb(7, 197, 64);
 }
 #tparimpar table{
     text-align: center;
